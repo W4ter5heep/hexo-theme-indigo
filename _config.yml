@@ -19,7 +19,7 @@ menu:
     text: Categories
     url: /categories
   github:
-    url: https://github.com/yscoder
+    url: https://github.com/w4ter5heep
     target: _blank
   weibo:
     url: http://www.weibo.com/ysweb
@@ -29,7 +29,7 @@ menu:
     url: /custom
 
 # 你的头像url
-avatar: /img/avatar.jpg
+avatar: /img/gogo.jpg
 # avatar link
 avatar_link: /
 # 头像背景图
@@ -38,7 +38,7 @@ brand: /img/brand.jpg
 favicon: /favicon.ico
 
 # email
-email: 634206017@qq.com
+email: w4ter5heep@qq.com
 
 # 设置 Android L Chrome 浏览器状态栏颜色
 color: '#3F51B5'
